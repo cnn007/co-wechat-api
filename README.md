@@ -65,24 +65,10 @@ var api = new API('appid', 'secret', async function () {
 });
 ```
 
-## Show cases
-### Node.js API自动回复
-
-![Node.js API自动回复机器人](http://nodeapi.diveintonode.org/assets/qrcode.jpg)
-
-欢迎关注。
-
-代码：<https://github.com/JacksonTian/api-doc-service>
-
-你可以在[CloudFoundry](http://www.cloudfoundry.com/)、[appfog](https://www.appfog.com/)、[BAE](http://developer.baidu.com/wiki/index.php?title=docs/cplat/rt/node.js)等搭建自己的机器人。
-
 ## 详细API
 原始API文档请参见：[消息接口指南](http://mp.weixin.qq.com/wiki/index.php?title=消息接口指南)。
 ## License
 The MIT license.
-
-## 交流群
-QQ群：157964097，使用疑问，开发，贡献代码请加群。
 
 ## 感谢
 感谢以下贡献者：
@@ -113,3 +99,7 @@ QQ群：157964097，使用疑问，开发，贡献代码请加群。
      1  mukaiu        0.9%
 
 ```
+
+## 说明
+仓库原地址：https://github.com/node-webot/co-wechat-api
+由于需要扩展新的接口，所以fork后自己新增使用，感谢原作者！
