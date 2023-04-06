@@ -36,13 +36,13 @@ Wechat API(ES6版)
 ## Installation
 
 ```sh
-$ npm install co-wechat-api
+$ npm install co-wechat-api-cnn
 ```
 
 ## Usage
 
 ```js
-var WechatAPI = require('co-wechat-api');
+var WechatAPI = require('co-wechat-api-cnn');
 
 async function() {
   var api = new WechatAPI(appid, appsecret);
@@ -69,36 +69,6 @@ var api = new API('appid', 'secret', async function () {
 原始API文档请参见：[消息接口指南](http://mp.weixin.qq.com/wiki/index.php?title=消息接口指南)。
 ## License
 The MIT license.
-
-## 感谢
-感谢以下贡献者：
-
-```
-
- project  : co-wechat-api
- repo age : 2 years, 6 months
- active   : 37 days
- commits  : 109
- files    : 50
- authors  :
-    75  Jackson Tian  68.8%
-     7  肥鼠          6.4%
-     6  magicxie      5.5%
-     3  马剑          2.8%
-     2  TimZhang      1.8%
-     2  Ziyi Yan      1.8%
-     2  ken           1.8%
-     2  Lei           1.8%
-     2  pillarhou     1.8%
-     2  sunwf         1.8%
-     1  Jichao Wu     0.9%
-     1  HelloYou      0.9%
-     1  swfbarhr      0.9%
-     1  ladjzero      0.9%
-     1  三点          0.9%
-     1  mukaiu        0.9%
-
-```
 
 ## 说明
 仓库原地址：https://github.com/node-webot/co-wechat-api
