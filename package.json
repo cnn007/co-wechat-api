@@ -1,5 +1,5 @@
 {
-  "name": "co-wechat-api",
+  "name": "co-wechat-api-cnn",
   "version": "3.12.0",
   "description": "微信公共平台Node库API，ES6版本",
   "main": "index.js",
