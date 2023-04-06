@@ -113,9 +113,3 @@ QQ群：157964097，使用疑问，开发，贡献代码请加群。
      1  mukaiu        0.9%
 
 ```
-
-## 捐赠
-如果您觉得Wechat对您有帮助，欢迎请作者一杯咖啡
-
-![捐赠wechat](https://cloud.githubusercontent.com/assets/327019/2941591/2b9e5e58-d9a7-11e3-9e80-c25aba0a48a1.png)
-
